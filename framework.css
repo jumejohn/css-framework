@@ -38,6 +38,14 @@
   float: left;
   width: 83.333%;
 }
+.col-11 {
+  float: left;
+  width: 91.667%;
+}
+.col-12 {
+  float: left;
+  width: 100%;
+}
 
 * {
   -webkit-box-sizing: border-box;
